@@ -1,2 +1,2 @@
-# SriHarshaDamarla_CleanCodeTask
+# YakamaAlekya_CleanCodeTask
 Epam Clean Code Task
